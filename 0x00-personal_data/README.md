@@ -35,3 +35,5 @@
     * ### All your functions should be type annotated
 
 * ## Tasks
+	* ## 1,encript_password.py
+	* ## 2, filtered_logger.py
