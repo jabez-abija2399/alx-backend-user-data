@@ -1,5 +1,7 @@
 # 0x00-personal_data
 
+![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5c48d4f6d4dd8081eb48.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230803T070116Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=00d932c1cf92f69dff59d261f26745cb4aabc4b57952a36ab88e70880b36e301)	
+
 * ## Resources
 * ## Read or watch:
 
