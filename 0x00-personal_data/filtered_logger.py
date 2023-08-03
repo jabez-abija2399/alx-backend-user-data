@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """ Regex-ing, Log formatter, Create logger, Connect to secure database,
     Read and filter data """
-from typing import List
+from typing import Lis
 import re
 import logging
 import os
