@@ -1,6 +1,6 @@
 # 0x00-personal_data
 
-![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5c48d4f6d4dd8081eb48.png)
+![alt text](./link.png)
 	
 
 * ## Resources
