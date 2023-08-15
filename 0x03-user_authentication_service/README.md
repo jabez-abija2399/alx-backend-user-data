@@ -42,8 +42,8 @@ In the industry, you should not implement your own authentication system and use
 
 ## Setup
 
-You will need to install bcrypt
+	You will need to install bcrypt
 
-pip3 install bcrypt
+	pip3 install bcrypt
 
 ## Tasks
